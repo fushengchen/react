@@ -1,0 +1,8 @@
+.mycenter_list{padding:10px;overflow:hidden;margin:10px auto;background:white}
+.mycenter_list li{height:34px;line-height:34px;padding:8px;font-size:14px;border-bottom:1px solid #eee;position:relative;overflow:hidden}
+.mycenter_list li a{display:block;height:34px;line-height:34px;text-indent:16px}
+.mycenter_list li div{width:34px;height:34px;float:left;text-indent:0;}
+.mycenter_list li div i.ititle{display:block;width:34px;height:34px;line-height:34px;text-align:center;color:#be3233;border-radius:50%;background:rgba(175, 21, 20, 0.07);margin:0}
+.mycenter_list li p{float:left;margin-left:5px;height:34px;line-height:34px;color:#666}
+.mycenter_list li:last-child{border:none}
+.mycenter_list li a i.tomore{position:absolute;right:10px;top:8px}

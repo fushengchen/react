@@ -1,0 +1,65 @@
+.fixed_top{width:100%;height:44px;background:linear-gradient(to right,#be3233,#9e1819);background-color:#be3233;position:fixed;left:0;top:0;z-index:99;color:white;text-align:center;overflow:hidden}
+.top-l{width:60px;height:44px;line-height:44px;float:left;text-align:center}
+.top-r{width:80px;height:44px;line-height:44px;float:right;text-align:center}
+.fixed_top h1{color:white;font-size:18px;height:44px;line-height:44px;font-weight:400;width:calc(100% - 140px);float:left;text-align:center;text-indent:20px}
+.fixed_top h2{color:white;font-size:14px;height:44px;line-height:44px;font-weight:400;width:calc(100% - 140px);float:left;text-align:center;text-indent:20px}
+.fixed_top a{color:white}
+
+.fixed_topw{width:100%;height:60px;background-color:#fff;position:fixed;left:0;top:0;z-index:99;color:white;text-align:center;overflow:hidden;box-shadow:0 1px 3px 0 rgba(0,0,0,.2)}
+.fixed_topw h1{color:#333;font-size:18px;height:60px;line-height:60px;font-weight:400;width:calc(100% - 140px);float:left;text-align:center;text-indent:20px}
+.fixed_topw h2{color:#333;font-size:14px;height:60px;line-height:60px;font-weight:400;width:calc(100% - 140px);float:left;text-align:center;text-indent:20px}
+.fixed_topw a{color:#333}
+
+.self_info{width:calc(100% - 200px);float:left;position:relative;padding-left:44px;margin-top:8px;box-sizing:border-box}
+.self_info img{position:absolute;left:7px;top:7px;width:30px;height:30px;border-radius:50%;box-shadow:0 0 0 2px #ddd}
+.self_info h4{margin-top:4px;height:18px;line-height:18px;color:#333;font-size:12px;text-align:left}
+.self_info p{height:18px;line-height:18px;color:#666;font-size:12px;text-align:left}
+.fixed_topw ul{width:200px;float:right;margin-top:8px;}
+.fixed_topw ul li{width:25%;float:left;text-align:center;color:#333;font-size:12px}
+.fixed_topw ul a{display:block;height:44px;padding-top:4px;box-sizing:border-box}
+.fixed_topw ul h4{height:18px;line-height:18px}
+.fixed_topw ul p{height:20px;line-height:20px;text-align:center}
+.fixed_topw ul i{font-size:18px!important;color:#666;margin:0}
+.fixed_topw ul li.active h4,.footer ul li.active i{color:#be3233}
+
+.tzxx{padding:5px 0;height:30px;line-height:30px;overflow:hidden;background:#fff;margin-top:5px;position:relative;padding-left:50px}
+.tzxx i{font-size:24px;width:50px;height:40px;line-height:40px;background:white;position:absolute;left:0;top:0;text-align:center;color:#be3233}
+.tzxx p{height:30px;line-height:30px;text-indent:8px}
+
+.gz{padding:5px;background:white;color:#666;line-height:24px}
+.gz a{color:#9E1819}
+
+.banner{background:url(../../assets/img/bn.jpg);background-size:100% 100%;height:160px}
+.banner_top{height:60px;position:relative}
+.banner_top h2{color:white;font-size:20px;height:60px;line-height:60px;text-align:center}
+.banner_top a{position:absolute;right:15px;top:14px;height:32px;width:80px;line-height:32px;border-radius:5px;color:#000;text-align:center;border:1px solid #fff;background:rgba(255,255,255,.5);font-size:12px}
+.main_data{padding:20px 0;text-align:center}
+.main_data li{display:inline-block;background:#f5c6a6;border:1px solid #9E1819;border-radius:5px;box-shadow:0 0 0 3px #f5c6a6;margin:0 6px;width:40px;line-height:40px;height:40px;color:#9E1819;font-size:24px}
+.kjtimes{height:50px;background:#c00000}
+.kjtimes i{display:block;color:white;font-size:26px;width:30px;height:50px;line-height:50px;text-align:center;float:left}
+.kjtimes p{width:90px;height:50px;line-height:50px;float:left;color:white}
+.djs_timed span{display:inline-block;background:#f5c6a6;border:1px solid #9E1819;border-radius:5px;box-shadow:0 0 0 3px #f5c6a6;margin:5px;width:32px;text-align:center;line-height:30px;height:30px;color:#9E1819;font-size:18px}
+.djs_timed{padding-top:2px;height:50px;line-height:50px;width:calc(100% - 130px);float:right;color:white}
+
+
+.my-swipe {
+    height: 200px;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+}
+
+.slide1 {
+    background-color: #0089dc;
+    color: #fff;
+}
+
+.slide2 {
+    background-color: #ffd705;
+    color: #000;
+}
+
+.slide3 {
+    background-color: #ff2d4b;
+    color: #fff;
+}

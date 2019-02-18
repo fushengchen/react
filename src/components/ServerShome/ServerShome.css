@@ -1,0 +1,7 @@
+.bzzx li{line-height:26px;min-height:26px;background:white;padding:10px;position:relative;overflow:hidden;margin-top:10px}
+.bzzx li a{display:block;width:calc(100% - 30px);line-height:26px;float:left;color:#000}
+.bzzx li i{position:absolute;right:5px;top:10px;height:26px;line-height:26px;width:20px;color:#000}
+
+.ewm{position:absolute;left:50%;top:50%;margin-left:-125px;margin-top:-125px;}
+.ewm img{width:250px;height:250px}
+.ewm i{position:absolute;right:0;top:-30px;width:26px;height:26px;color:white;font-size:26px;margin-right:0}
